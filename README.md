@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 - 👷‍♀️ < software developer />
 - 📍 Toronto, ON
+- 💎 Ruby on Rails
+- ⌨️ Wordpress
 - 🖊️ Blogger
 -  🧋 Bubble Tea Addict
