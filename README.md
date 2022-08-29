@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👷‍♀️ < software developer />
-- 📍 Toronto, ON
+- 👷‍♀️ <Software Engineer/>
 - 💎 Ruby on Rails
-- ⌨️ Wordpress
+- 📍 Toronto, CAN
 - 🖊️ Blogger
--  🧋 Bubble Tea Addict
+-  🏄🏽‍♂️ 🚴🏻‍♀️ 🏃🏻‍♀️
