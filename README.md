@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👷‍♀️ <Software Engineer/>
+- 👷‍♀️ < Software Engineer />
 - 💎 Ruby on Rails
 - 📍 Toronto, CAN
 - 🖊️ Blogger
